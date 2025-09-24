@@ -1,0 +1,13 @@
+QUIZ sprawdzajacy znajomosc postaci ze starwarsow
+
+Wprowadzenie Aplikacja bedzie pokazywac postacie i bedzie trzeba wybrac do nich odpowiednia nazwe 
+
+Projekt graficzny
+	Na srodku strony bedzie wyswietlal sie obraz z postacia a pod nim przyciski z nazwami postaci 
+
+przebieg rozgrywki
+
+Gra bedzie czasowa z mozliwoscia popelnienia maksymalnie 2 bledow 
+
+
+
